@@ -1,2 +1,0 @@
-# smarttemperature
-smart temperature controller
